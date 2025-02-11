@@ -1,13 +1,17 @@
 .impar{
+    font-family: Verdana, 'DejaVu Sans', 'sans-serif';
+}
+
+.impar{
     background-color: #FFC0CB;
 }
 
-.par{
+#num2{
     color: #0000ff;
     font-size: 36px;
 }
 
-.impar #number3{
+.impar2{
     font-size: 24px;
 }
 
