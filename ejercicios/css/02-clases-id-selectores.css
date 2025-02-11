@@ -1,0 +1,20 @@
+.impar{
+    background-color: #FFC0CB;
+}
+
+.par{
+    color: #0000ff;
+    font-size: 36px;
+}
+
+.impar #number3{
+    font-size: 24px;
+}
+
+.par2{
+    background-color: #89AC76;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+
